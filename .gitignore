@@ -1,3 +1,4 @@
+.DS_Store
 *.skb
-zb1.skp
-gcode
+release/gcode
+release/*.zip
